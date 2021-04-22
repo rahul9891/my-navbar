@@ -1,0 +1,9 @@
+.header-left {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.header-left > h1 {
+    color:#288ee2;
+}
